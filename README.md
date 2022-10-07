@@ -92,6 +92,15 @@ A pontuação será cotada através da distância percorrida (em metros) e a qua
 As tecnologias utilizadas para a produção desta aplicação são as mesmas que foram lecionadas em sala de aula, tais como: pg admin, postgre para a modelação e utilização das bases de dados; java para toda a parte da programação orientada a objetos e o android studio para a criação da app na disciplina, programação móvel. 
 
 
+# Enquadramento nas disciplinas:
+Base de dados -> Desenvolvimento e manutenção das Bases de dados do projeto
+
+Programação orientada a objetos -> Programação e desenvolvimento do servidor do projeto
+
+Programação de dispositivos móveis -> Programação e desenvolvimento da própria app
+
+Competências Comunicacionais -> Desenvolvimento de habilidades comunicacionais para as apresentações do projeto
+
 
 
 
