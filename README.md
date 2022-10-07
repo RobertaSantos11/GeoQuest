@@ -26,11 +26,11 @@ Desta forma a aplicação incentiva a prática de hábitos saudáveis, estimula 
 Foco nas faixas etárias dos 18-24 e dos 25-34 com uma distribuição espectada representada no gráfico. A distribuição por género é projetada ser 50/50 entre masculino e feminino.
 
 
-#Pesquisa de Mercado:
+# Pesquisa de Mercado:
 
 Geoguessr.com
 
-	-Geoguessr é um jogo que consiste em encontrar a localização onde uma imagem do google street view foi tirada através de características da zona tais como edifícios, sinais, flora, etc. Este jogo serve como a base do conceito da nossa aplicação, encontrar o local representado na imagem através de pistas retiradas da mesma.
+-Geoguessr é um jogo que consiste em encontrar a localização onde uma imagem do google street view foi tirada através de características da zona tais como edifícios, sinais, flora, etc. Este jogo serve como a base do conceito da nossa aplicação, encontrar o local representado na imagem através de pistas retiradas da mesma.
 
 Geocaching.com
 
