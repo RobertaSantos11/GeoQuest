@@ -46,10 +46,15 @@ Um utilizador, que usa a aplicação frequentemente, pretende iniciar um jogo de
 Assumindo que este já tem uma conta GeoQuest registado, o processo seria:
 
 Passo 1: Inicialização da aplicação
+
 Passo 2: O utilizador faz login na sua conta GeoQuest ao digitar o seu nome de utilizador e palavra-passe 
+
 Passo 3: O utilizador seleciona a opção "Start Game"
+
 Passo 4: O utilizador seleciona o modo de jogo "Short Game"
+
 Passo 5: O utilizador joga durante 10 minutos
+
 Passo 6: O jogo acaba e é apresentada a pontuação final ao utilizador consoante a sua performance
 
 Guião 2 (Leaderboard):
@@ -58,8 +63,11 @@ Assumindo que o modo de jogo que o utilizado jogou foi o "Long Game", o processo
 
 Passo 1: Inicialização da aplicação
 Passo 2: O utilizador faz login na sua conta GeoQuest ao digitar o seu nome de utilizador e palavra-passe
+
 Passo 3: O utilizador seleciona a opção "Leaderboards"
+
 Passo 4: O utilizador seleciona o modo de jogo "Long Game"
+
 Passo 5: É apresentada a leaderboard do modo de jogo "Long Game" ao utilizador, com destaque à sua pontuação
 
 Guião 3 (Registo):
@@ -68,15 +76,19 @@ O processo seria:
 
 Passo 1: Inicialização da aplicação
 Passo 2: O utilizador seleciona a opção "Register a GeoQuest account"
+
 Passo 3: O utilizador introduz o nome de utilizador e palavra-passe que quer ter
+
 Passo 4: O utilizador faz login na sua nova conta GeoQuest pela primeira fez
 
 # Descrição da solução a implementar:
 
 Primeiramente o utilizador tem de fazer o login na app, tem de escolher um nome de utilizador e uma palavra-passe.
 Após a conexão ao jogo, o mesmo ira escolher o modo que deseja, e o programa irá direcionar-se para a base de dados de modo a recolher as imagens, localizações e coordenadas lá presentes. Será usada a funcionalidade de localização do dispositivo para determinar os locais durante o jogo e as imagens presentes nas bases de dados serão retiradas pelos autores.
+
 Durante o jogo será mostrada a imagem do local como também um mapa da atual localização do jogador, o mesmo dirigir-se-á ao máximo de pontos que conseguir.
 A pontuação será cotada através da distância percorrida (em metros) e a quantidade de locais encontrados dentro do tempo limite. A leaderboard ira utilizar todas as pontuações presentes na base de dados.
+
 As tecnologias utilizadas para a produção desta aplicação são as mesmas que foram lecionadas em sala de aula, tais como: pg admin, postgre para a modelação e utilização das bases de dados; java para toda a parte da programação orientada a objetos e o android studio para a criação da app na disciplina, programação móvel. 
 
 
